@@ -1,0 +1,18 @@
+﻿  PokerAITrainer.cpp
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Ai.h(108,20): warning C4018: <: signed/unsigned – neshoda
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Ai.h(200,38): warning C4267: inicializování: Převod z: size_t na: unsigned int, může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Ref.h(330,26): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Ref.h(334,17): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\GameEngine.h(9,25): warning C4018: <: signed/unsigned – neshoda
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Trainer.h(35,38): warning C4267: inicializování: Převod z: size_t na: unsigned int, může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Trainer.h(47,21): warning C4018: <: signed/unsigned – neshoda
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Trainer.h(50,22): warning C4018: <: signed/unsigned – neshoda
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\Trainer.h(52,23): warning C4018: <: signed/unsigned – neshoda
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(32,12): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(79,16): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(85,13): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(114,13): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(130,13): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(146,13): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Hugo\source\repos\PokerAITrainer\PokerAITrainer\PokerAITrainer.cpp(158,13): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+  PokerAITrainer.vcxproj -> C:\Users\Hugo\source\repos\PokerAITrainer\x64\Debug\PokerAITrainer.exe
